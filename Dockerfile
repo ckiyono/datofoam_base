@@ -49,4 +49,3 @@ RUN . $DAFOAM_ROOT_PATH/OpenFOAM/OpenFOAM-v1812-ADR/etc/bashrc && \
 RUN . $DAFOAM_ROOT_PATH/OpenFOAM/OpenFOAM-v1812-ADF/etc/bashrc && \
     ./Allclean && \
     ./Allmake
-# RUN pip install .

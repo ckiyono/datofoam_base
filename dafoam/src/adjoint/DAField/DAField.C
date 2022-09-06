@@ -120,6 +120,7 @@ void DAField::ofField2StateVec(Vec stateVec) const
             }
         }
     }
+
     VecRestoreArray(stateVec, &stateVecArray);
 }
 
